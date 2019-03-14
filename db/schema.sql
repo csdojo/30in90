@@ -1,0 +1,12 @@
+DROP DATABASE IF EXISTS 3090_db;
+CREATE DATABASE 3090_db;
+USE 3090_db;
+
+-- Create the tables table
+CREATE TABLE notes
+(
+  id INT NOT NULL AUTO_INCREMENT,
+  title VARCHAR (255) NOT NULL,
+  text VARCHAR (255) NOT NULL,
+  PRIMARY KEY(id)
+);

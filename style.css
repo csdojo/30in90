@@ -1,0 +1,40 @@
+*{
+    background-color: black;
+}
+#font1{
+    
+    font-family: 'Bungee Shade', cursive;
+    
+    font-size:30vh;
+    color:white;
+    margin-right: 100px;
+    margin-left:100px
+}
+
+#font2{
+  
+    font-family: 'Black Ops One', cursive;
+
+    
+    font-size:34vh;
+    color:white;
+    margin-right: 100px
+}
+
+#font3{
+    font-family: 'Frijole', cursive;
+    
+    
+    font-size:30vh;
+    color:white;
+    margin-right: 100px
+}
+
+#font4{
+    
+    font-family: 'Fredericka the Great', cursive;
+    font-size:30vh;
+    color:white;
+    margin-right: 100px
+}
+
